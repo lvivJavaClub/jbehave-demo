@@ -9,5 +9,4 @@ public class JbehaveDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JbehaveDemoApplication.class, args);
 	}
-
 }
